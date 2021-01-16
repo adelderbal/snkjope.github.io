@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.supermamon.dezinepro
+Version: 1.0
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.dezinepro.deb
+Size: 306780
+MD5sum: A43D5BF25F5B660974503ED23EF9112F
+Description: Hack Most Apps For apps Store
+Name: DezinePro
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.dezinepro
